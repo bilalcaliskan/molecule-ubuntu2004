@@ -27,6 +27,7 @@ RUN apt-get update \
     && apt-get clean \
     && rm -rf /var/cache/apt/
 RUN sed -i 's/^\($ModLoad imklog\)/#\1/' /etc/rsyslog.conf
+RUN mkdir -p /usr/share/man/man1
 
 # Fix potential UTF-8 errors with ansible-test.
 RUN locale-gen en_US.UTF-8
