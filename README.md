@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/bilalcaliskan/molecule-ubuntu2004/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/bilalcaliskan/molecule-ubuntu2004/actions?query=workflow%3ABuild)
 [![Docker pulls](https://img.shields.io/docker/pulls/bilalcaliskan/molecule-ubuntu2004)](https://hub.docker.com/r/bilalcaliskan/molecule-ubuntu2004/)
+[![GitHub tag](https://img.shields.io/github/tag/bilalcaliskan/molecule-ubuntu2004.svg)](https://GitHub.com/bilalcaliskan/molecule-ubuntu2004/tags/)
+[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
 
 Ubuntu 18.04 Docker container for Ansible playbook and role testing.
 
