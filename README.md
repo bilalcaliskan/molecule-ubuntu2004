@@ -5,7 +5,7 @@
 [![GitHub tag](https://img.shields.io/github/tag/bilalcaliskan/molecule-ubuntu2004.svg)](https://GitHub.com/bilalcaliskan/molecule-ubuntu2004/tags/)
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
 
-Ubuntu 18.04 Docker container for Ansible playbook and role testing.
+Ubuntu 20.04 Docker container for Ansible playbook and role testing.
 
 ## How to Use
 - [Install Docker](https://docs.docker.com/engine/installation/).
